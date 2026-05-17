@@ -1,0 +1,96 @@
+{
+  "product": "HireSignal",
+  "category": "Recruiting Pipeline",
+  "backend": "GitHub Pages static JSON endpoint plus localStorage write simulation.",
+  "generatedBy": "Simone Govender",
+  "metrics": [
+    {
+      "label": "Pipeline risk",
+      "value": "86%",
+      "delta": "+12%"
+    },
+    {
+      "label": "Active records",
+      "value": "7",
+      "delta": "+3"
+    },
+    {
+      "label": "Workflow steps",
+      "value": "4",
+      "delta": "mapped"
+    },
+    {
+      "label": "Local saves",
+      "value": "on",
+      "delta": "browser"
+    }
+  ],
+  "records": [
+    {
+      "id": "hiresignal-1",
+      "title": "Feedback overdue",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 92,
+      "trend": "High attention",
+      "updated": "8 min ago"
+    },
+    {
+      "id": "hiresignal-2",
+      "title": "Scorecard complete",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 80,
+      "trend": "In progress",
+      "updated": "19 min ago"
+    },
+    {
+      "id": "hiresignal-3",
+      "title": "Offer decision summary",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "30 min ago"
+    }
+  ],
+  "workflow": [
+    {
+      "step": 1,
+      "title": "Stage age",
+      "detail": "HireSignal uses stage age to support pipeline decisions for recruiters and hiring managers."
+    },
+    {
+      "step": 2,
+      "title": "Evidence scorecards",
+      "detail": "HireSignal uses evidence scorecards to support scorecards decisions for recruiters and hiring managers."
+    },
+    {
+      "step": 3,
+      "title": "Decision summary",
+      "detail": "HireSignal uses decision summary to support hiring dashboard decisions for recruiters and hiring managers."
+    },
+    {
+      "step": 4,
+      "title": "Candidate updates",
+      "detail": "HireSignal uses candidate updates to support candidate updates decisions for recruiters and hiring managers."
+    }
+  ],
+  "activity": [
+    {
+      "title": "Reduce hiring drift",
+      "time": "1h",
+      "kind": "Stage age"
+    },
+    {
+      "title": "Make evidence visible",
+      "time": "2h",
+      "kind": "Evidence scorecards"
+    },
+    {
+      "title": "Keep candidates informed",
+      "time": "3h",
+      "kind": "Decision summary"
+    }
+  ]
+}
