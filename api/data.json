@@ -11,8 +11,8 @@
     },
     {
       "label": "Active records",
-      "value": "7",
-      "delta": "+3"
+      "value": "100",
+      "delta": "100 seeded"
     },
     {
       "label": "Workflow steps",
@@ -28,30 +28,1003 @@
   "records": [
     {
       "id": "hiresignal-1",
-      "title": "Feedback overdue",
+      "title": "Feedback overdue #001",
       "status": "Stage age",
       "owner": "Pipeline",
-      "score": 92,
+      "score": 42,
       "trend": "High attention",
-      "updated": "8 min ago"
+      "updated": "8 min ago",
+      "demoSeed": true
     },
     {
       "id": "hiresignal-2",
-      "title": "Scorecard complete",
+      "title": "Scorecard complete #002",
       "status": "Evidence scorecards",
       "owner": "Scorecards",
-      "score": 80,
+      "score": 49,
       "trend": "In progress",
-      "updated": "19 min ago"
+      "updated": "13 min ago",
+      "demoSeed": true
     },
     {
       "id": "hiresignal-3",
-      "title": "Offer decision summary",
+      "title": "Offer decision summary #003",
       "status": "Decision summary",
       "owner": "Hiring dashboard",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "18 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-4",
+      "title": "Feedback overdue #004",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "23 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-5",
+      "title": "Scorecard complete #005",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "28 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-6",
+      "title": "Offer decision summary #006",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "33 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-7",
+      "title": "Feedback overdue #007",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "38 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-8",
+      "title": "Scorecard complete #008",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "43 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-9",
+      "title": "Offer decision summary #009",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "48 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-10",
+      "title": "Feedback overdue #010",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "53 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-11",
+      "title": "Scorecard complete #011",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "58 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-12",
+      "title": "Offer decision summary #012",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "63 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-13",
+      "title": "Feedback overdue #013",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "68 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-14",
+      "title": "Scorecard complete #014",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "73 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-15",
+      "title": "Offer decision summary #015",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "78 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-16",
+      "title": "Feedback overdue #016",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "83 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-17",
+      "title": "Scorecard complete #017",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "88 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-18",
+      "title": "Offer decision summary #018",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "93 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-19",
+      "title": "Feedback overdue #019",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "98 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-20",
+      "title": "Scorecard complete #020",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "103 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-21",
+      "title": "Offer decision summary #021",
+      "status": "Stage age",
+      "owner": "Pipeline",
       "score": 68,
       "trend": "Ready",
-      "updated": "30 min ago"
+      "updated": "108 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-22",
+      "title": "Feedback overdue #022",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "113 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-23",
+      "title": "Scorecard complete #023",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "118 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-24",
+      "title": "Offer decision summary #024",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "123 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-25",
+      "title": "Feedback overdue #025",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "128 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-26",
+      "title": "Scorecard complete #026",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "133 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-27",
+      "title": "Offer decision summary #027",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "138 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-28",
+      "title": "Feedback overdue #028",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "143 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-29",
+      "title": "Scorecard complete #029",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "148 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-30",
+      "title": "Offer decision summary #030",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "153 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-31",
+      "title": "Feedback overdue #031",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "158 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-32",
+      "title": "Scorecard complete #032",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "163 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-33",
+      "title": "Offer decision summary #033",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "168 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-34",
+      "title": "Feedback overdue #034",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "173 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-35",
+      "title": "Scorecard complete #035",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "178 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-36",
+      "title": "Offer decision summary #036",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "183 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-37",
+      "title": "Feedback overdue #037",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "188 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-38",
+      "title": "Scorecard complete #038",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "193 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-39",
+      "title": "Offer decision summary #039",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "198 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-40",
+      "title": "Feedback overdue #040",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "203 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-41",
+      "title": "Scorecard complete #041",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "208 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-42",
+      "title": "Offer decision summary #042",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "213 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-43",
+      "title": "Feedback overdue #043",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "218 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-44",
+      "title": "Scorecard complete #044",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 58,
+      "trend": "In progress",
+      "updated": "223 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-45",
+      "title": "Offer decision summary #045",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 65,
+      "trend": "Ready",
+      "updated": "228 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-46",
+      "title": "Feedback overdue #046",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 72,
+      "trend": "High attention",
+      "updated": "233 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-47",
+      "title": "Scorecard complete #047",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 79,
+      "trend": "In progress",
+      "updated": "238 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-48",
+      "title": "Offer decision summary #048",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 86,
+      "trend": "Ready",
+      "updated": "243 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-49",
+      "title": "Feedback overdue #049",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 93,
+      "trend": "High attention",
+      "updated": "248 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-50",
+      "title": "Scorecard complete #050",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 43,
+      "trend": "In progress",
+      "updated": "253 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-51",
+      "title": "Offer decision summary #051",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 50,
+      "trend": "Ready",
+      "updated": "258 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-52",
+      "title": "Feedback overdue #052",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 57,
+      "trend": "High attention",
+      "updated": "263 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-53",
+      "title": "Scorecard complete #053",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 64,
+      "trend": "In progress",
+      "updated": "268 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-54",
+      "title": "Offer decision summary #054",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 71,
+      "trend": "Ready",
+      "updated": "273 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-55",
+      "title": "Feedback overdue #055",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 78,
+      "trend": "High attention",
+      "updated": "278 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-56",
+      "title": "Scorecard complete #056",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 85,
+      "trend": "In progress",
+      "updated": "283 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-57",
+      "title": "Offer decision summary #057",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 92,
+      "trend": "Ready",
+      "updated": "288 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-58",
+      "title": "Feedback overdue #058",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 42,
+      "trend": "High attention",
+      "updated": "293 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-59",
+      "title": "Scorecard complete #059",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 49,
+      "trend": "In progress",
+      "updated": "298 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-60",
+      "title": "Offer decision summary #060",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 56,
+      "trend": "Ready",
+      "updated": "303 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-61",
+      "title": "Feedback overdue #061",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 63,
+      "trend": "High attention",
+      "updated": "308 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-62",
+      "title": "Scorecard complete #062",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 70,
+      "trend": "In progress",
+      "updated": "313 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-63",
+      "title": "Offer decision summary #063",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 77,
+      "trend": "Ready",
+      "updated": "318 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-64",
+      "title": "Feedback overdue #064",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 84,
+      "trend": "High attention",
+      "updated": "323 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-65",
+      "title": "Scorecard complete #065",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 91,
+      "trend": "In progress",
+      "updated": "328 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-66",
+      "title": "Offer decision summary #066",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 98,
+      "trend": "Ready",
+      "updated": "333 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-67",
+      "title": "Feedback overdue #067",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 48,
+      "trend": "High attention",
+      "updated": "338 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-68",
+      "title": "Scorecard complete #068",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 55,
+      "trend": "In progress",
+      "updated": "343 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-69",
+      "title": "Offer decision summary #069",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 62,
+      "trend": "Ready",
+      "updated": "348 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-70",
+      "title": "Feedback overdue #070",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 69,
+      "trend": "High attention",
+      "updated": "353 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-71",
+      "title": "Scorecard complete #071",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 76,
+      "trend": "In progress",
+      "updated": "358 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-72",
+      "title": "Offer decision summary #072",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 83,
+      "trend": "Ready",
+      "updated": "363 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-73",
+      "title": "Feedback overdue #073",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 90,
+      "trend": "High attention",
+      "updated": "368 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-74",
+      "title": "Scorecard complete #074",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 97,
+      "trend": "In progress",
+      "updated": "373 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-75",
+      "title": "Offer decision summary #075",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 47,
+      "trend": "Ready",
+      "updated": "378 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-76",
+      "title": "Feedback overdue #076",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 54,
+      "trend": "High attention",
+      "updated": "383 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-77",
+      "title": "Scorecard complete #077",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 61,
+      "trend": "In progress",
+      "updated": "388 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-78",
+      "title": "Offer decision summary #078",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 68,
+      "trend": "Ready",
+      "updated": "393 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-79",
+      "title": "Feedback overdue #079",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 75,
+      "trend": "High attention",
+      "updated": "398 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-80",
+      "title": "Scorecard complete #080",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 82,
+      "trend": "In progress",
+      "updated": "403 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-81",
+      "title": "Offer decision summary #081",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 89,
+      "trend": "Ready",
+      "updated": "408 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-82",
+      "title": "Feedback overdue #082",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 96,
+      "trend": "High attention",
+      "updated": "413 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-83",
+      "title": "Scorecard complete #083",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 46,
+      "trend": "In progress",
+      "updated": "418 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-84",
+      "title": "Offer decision summary #084",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 53,
+      "trend": "Ready",
+      "updated": "423 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-85",
+      "title": "Feedback overdue #085",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 60,
+      "trend": "High attention",
+      "updated": "428 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-86",
+      "title": "Scorecard complete #086",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 67,
+      "trend": "In progress",
+      "updated": "433 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-87",
+      "title": "Offer decision summary #087",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 74,
+      "trend": "Ready",
+      "updated": "438 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-88",
+      "title": "Feedback overdue #088",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 81,
+      "trend": "High attention",
+      "updated": "443 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-89",
+      "title": "Scorecard complete #089",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 88,
+      "trend": "In progress",
+      "updated": "448 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-90",
+      "title": "Offer decision summary #090",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 95,
+      "trend": "Ready",
+      "updated": "453 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-91",
+      "title": "Feedback overdue #091",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 45,
+      "trend": "High attention",
+      "updated": "458 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-92",
+      "title": "Scorecard complete #092",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 52,
+      "trend": "In progress",
+      "updated": "463 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-93",
+      "title": "Offer decision summary #093",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 59,
+      "trend": "Ready",
+      "updated": "468 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-94",
+      "title": "Feedback overdue #094",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 66,
+      "trend": "High attention",
+      "updated": "473 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-95",
+      "title": "Scorecard complete #095",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 73,
+      "trend": "In progress",
+      "updated": "478 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-96",
+      "title": "Offer decision summary #096",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 80,
+      "trend": "Ready",
+      "updated": "483 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-97",
+      "title": "Feedback overdue #097",
+      "status": "Stage age",
+      "owner": "Pipeline",
+      "score": 87,
+      "trend": "High attention",
+      "updated": "488 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-98",
+      "title": "Scorecard complete #098",
+      "status": "Evidence scorecards",
+      "owner": "Scorecards",
+      "score": 94,
+      "trend": "In progress",
+      "updated": "493 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-99",
+      "title": "Offer decision summary #099",
+      "status": "Decision summary",
+      "owner": "Hiring dashboard",
+      "score": 44,
+      "trend": "Ready",
+      "updated": "498 min ago",
+      "demoSeed": true
+    },
+    {
+      "id": "hiresignal-100",
+      "title": "Feedback overdue #100",
+      "status": "Candidate updates",
+      "owner": "Candidate updates",
+      "score": 51,
+      "trend": "High attention",
+      "updated": "503 min ago",
+      "demoSeed": true
     }
   ],
   "workflow": [
